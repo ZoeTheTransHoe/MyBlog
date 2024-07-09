@@ -1,0 +1,52 @@
+
+/* Media I Like */
+  .coverArt {
+    width:240px; 
+    height:240px; 
+    height: auto;
+    border-radius: 24px;
+  }
+  
+  .mediaILike {
+    align-items: center;
+    width: fit-content;
+    background-color: #333538;
+    text-align: center; 
+    width: 270px;
+    padding: 24px 20px 1px 20px;
+    border-radius: 24px;
+  }
+
+  .mediaTable {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 2em 0.8em;
+    border-collapse: separate;
+  }
+  
+  
+  @media screen and (max-width: 900px) {
+    .coverArt {
+      width: 140px;
+      height: 140px;   
+    }
+  
+    .mediaILike {
+      align-items: center;
+      width: calc(fit-content + 15px);
+      background-color: #333538;
+      border-radius: 12px ;
+      margin: 5px;
+      padding: 10px 20px 1px 20px;
+    }
+  
+    .media {
+      padding-bottom: 5px;
+    }
+  
+    .mediaDiv {
+        overflow:scroll;
+        justify-content:left;
+    }
+  }
+  

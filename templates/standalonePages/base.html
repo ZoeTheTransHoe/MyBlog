@@ -1,0 +1,20 @@
+{%- import 'macros/navBar.html' as macros_navBar -%}
+{%- import 'macros/footer.html' as macros_footer -%}
+{%- import 'macros/header.html' as macros_header -%}
+
+<!DOCTYPE html>
+<html lang="en">
+
+{{ macros_header::header() }}
+{{ macros_navBar::navBar() }}
+<body>
+  <main>
+    <section class="section">
+        {% block content %} {% endblock %}
+    </section>
+  </main>
+  {{ macros_footer::footer() }}
+</body>
+
+</html>
+

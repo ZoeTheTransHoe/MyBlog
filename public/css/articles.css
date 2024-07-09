@@ -1,0 +1,53 @@
+.images {
+    width: 26em;
+    border-radius: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.large_image {
+    width: 50em;
+}
+.codePadding {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #292929;
+    width: fit-content;
+    padding: 5px;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
+h2 {
+    text-align: center;
+    font-size: x-large;
+}
+h3 {
+    text-align: center;
+    font-size: medium;
+}
+
+.subtitle {
+    text-align: center;
+}
+.todo {
+    background-color: crimson;
+}
+
+
+@media screen and (max-width: 1300px) {
+    .images {
+        width: 80%;
+    }
+    .codePadding {
+        width: 100%;
+        overflow:scroll;
+    }
+    .large_image {
+        width: 95%;
+    }
+}
+
