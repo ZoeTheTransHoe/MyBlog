@@ -1,0 +1,33 @@
+{% macro navBar() %}
+<nav class="navBar">
+    <!-- Home -->
+    <div class="navBarButton">
+      <a href="/"><img src="/img/navBar/user-home-symbolic.svg" class="navBarIcon"> </a>
+      <p class="navBarText"> Home </p>
+    </div>
+    
+    <!-- My Articles  -->
+    <div class="navBarButton">
+      <a href="/mainPages/blog/"><img src="/img/navBar/note2-symbolic.svg" class="navBarIcon"></a> 
+      <p class="navBarText">Articles</p>
+    </div>
+  
+    <!-- Computing -->
+    <div class="navBarButton">
+      <a href="/mainPages/computingblog/"><img src="/img/navBar/computer-symbolic.svg" class="navBarIcon"></a>
+      <p class="navBarText">Computing</p>
+    </div>
+  
+    <!-- Plushie Blog -->
+    <div class="navBarButton">
+      <a href="/mainPages/plushieblog/"><img src="/img/navBar/bear-symbolic.svg" class="navBarIcon"> </a>
+      <p class="navBarText">My Plushies </p>
+    </div>
+  
+    <!-- Personal Life -->
+    <div class="navBarButton">
+      <a href="/mainPages/whoami/"><img src="/img/navBar/person-symbolic.svg" class="navBarIcon"> </a>
+      <p class="navBarText">About Me </p>
+    </div>
+</nav>
+{% endmacro %}

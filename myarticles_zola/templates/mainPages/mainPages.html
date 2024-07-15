@@ -1,0 +1,11 @@
+{% extends "mainPages/baseMP.html" %}
+
+{% block content %}
+<ul>
+  <!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->  
+  {% for page in section.pages %}
+  edrgr
+  <li class="bloglistelement"><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endblock content %}

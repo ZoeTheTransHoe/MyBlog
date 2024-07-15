@@ -1,0 +1,26 @@
+{%- import 'macros/navBar.html' as macros_navBar -%}
+{%- import 'macros/footer.html' as macros_footer -%}
+{%- import 'macros/header.html' as macros_header -%}
+<!DOCTYPE html>
+<html lang="en">
+
+{{ macros_header::header() }}
+{{ macros_navBar::navBar() }}
+<body>
+  <main>
+    <section class="section">
+      <div class="container">
+        <div class="catHeader">
+          <p><b><code class="code" aria-hidden="true">[zoey@fedora:~]$ ls /opt/mail/blogs/*.md </code><span class="cursor">█</span></b></p>
+        </div>
+        <h1 class="categoryHeader"> <img src="/img/Articles/chat-bubbles-empty-inverted-symbolic.svg" alt="Linux" class="categoryHeaderIcon" > Articles</h1>
+        
+        <p> These blogs will contain the musings of a very weird old rat lady, and mabye other insightful things.</p>
+        {% block content %} {% endblock %}
+      </div>
+    </section>
+  </main>
+</body>
+{{ macros_footer::footer() }}
+</html>
+
