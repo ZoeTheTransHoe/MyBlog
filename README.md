@@ -5,7 +5,7 @@ How To Update Website On Blogs Written Here
 
 ```
 toolbox enter zola
-cd cd /home/zoey/Documents/GitHub/MyBlog
+cd /home/zoey/Documents/GitHub/MyBlog
 Preview Website Live: zola serve
 Build Website For Hosting: zola build --output-dir ~/Documents/GitHub/MyBlogHostFiles --force
 ```
