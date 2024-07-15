@@ -1,0 +1,63 @@
+/* Navigation Bar */
+.navBar {
+    background-color: #ffc0cb;
+    text-align: center;
+    position: fixed;
+    display: inline;
+    top: 0;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .navBarText {
+    color: #1C1E20;
+    margin-top: 0px;  
+    margin-bottom: 0px;
+  }
+  
+  .navBarButton {
+    background-color: #EBA5B0;
+    width: fit-content;
+    height: 50px;
+    text-decoration: none;
+    border-radius: 24px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 5px;
+    padding-bottom: 29px;
+    padding-top: 4px;
+  }
+  
+  .navBarIcon{
+    width: 45px;
+  } 
+
+  @media screen and (max-width: 1400px) {
+    .navBarText {
+      font-size: 0px;
+    }
+    
+    .navBarButton {
+        height: auto;
+        padding-left: 14px;
+        padding-right: 14px;
+        margin-left: 2px;
+        margin-right: 2px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .navBarIcon{
+      width: 2.58em;
+    } 
+  }
+
+  @media screen and (max-width: 390px) {
+    .navBarIcon{
+      width: 2.04em;
+    } 
+  }
