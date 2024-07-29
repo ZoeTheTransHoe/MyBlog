@@ -3,6 +3,7 @@ title = "Computing Blog."
 date = 2024-05-28
 +++
 
+<main>
 <p><b><code class="code" aria-hidden="true">[zoey@fedora:~]$ cat ~/Documents/Computing </code><span class="cursor">█</span></b></p>
 
 <h1 class="categoryHeader"><img src="/img/Computing/penguin-alt-symbolic.svg" alt="Linux" class="categoryHeaderIcon" > Linux</h1>
@@ -56,7 +57,7 @@ date = 2024-05-28
       <img src="/img/Computing/GnomeLogoVertical.svg" class="projectImage">
       <p>GNOME</p> 
     </div>
-    <img src="/img/Computing/GNOME-2.png" class="projectShowoff">
+    <img src="/img/Computing/GNOME-2.png" class="largeImages">
     <p class="blurb">Makers of the inclusive, stable and refined GNOME desktop, and GNOME circle apps utilising GTK4/Libadwita, like Planify to-do list and Amberol Music Player.</p>
   </div>
 
@@ -65,7 +66,7 @@ date = 2024-05-28
       <img src="/img/Computing/kde.svg" class="projectImage">
       <p>KDE</p> 
     </div>
-    <img src="/img/Computing/KDE.png" class="projectShowoff">
+    <img src="/img/Computing/KDE.png" class="largeImages">
     <p class="blurb">Simple by default, powerful when needed. Home of the Plasma Desktop, and powerful apps like Krita, Kdenlive, KConnect and Kate.</p>
   </div>
 
@@ -74,7 +75,7 @@ date = 2024-05-28
       <img src="/img/Computing/Sway_Tree.svg" class="projectImage">
       <p>Sway</p> 
     </div>
-    <img src="/img/Computing/Sway.png" class="projectShowoff">
+    <img src="/img/Computing/Sway.png" class="largeImages">
     <p class="blurb">The first ever Window Manager I've used, thats as lightweight as it is tweakable and hackable, while keeping all the benefits of a modern Wayland Desktop.</p>
   </div>
 
@@ -83,7 +84,7 @@ date = 2024-05-28
       <img src="/img/Computing/Sway_Tree.svg" class="projectImage">
       <p>Flatpak</p> 
     </div>
-    <img src="/img/Computing/Flatpak.png" class="projectShowoff">
+    <img src="/img/Computing/Flatpak.png" class="largeImages">
     <p class="blurb">My favourite way of managing applications on Linux, allowing me to use a graphical app store to download any applications I need, that will work the exact same on any Linux Distro I use.</p>
   </div>
 </div>
@@ -169,32 +170,6 @@ date = 2024-05-28
   </tr>
   <tr>
     <td class="spec">
-      <img src="/img/Computing/Laptop.svg" class="specs-Image">
-      <p>Main Laptop (Lenovo Ideapad 5i):</p>
-    </td>
-    <td class="spec">
-      <img src="/img/Computing/CPU.svg" class="specs-Image">
-      <p>Intel i5-1135G7.</p>
-    </td>
-    <td class="spec">
-      <img src="/img/Computing/RAM.svg" class="specs-Image">
-      <p>8GB.</p>
-    </td>
-    <td class="spec">
-      <img src="/img/Computing/GPU.svg" class="specs-Image">
-      <p>Intel Iris XE Graphics.</p>
-    </td>
-    <td class="spec">
-      <img src="/img/Computing/HardDriveSpace.svg" class="specs-Image">
-      <p>512GB SSD</p>
-    </td>
-    <td class="spec">
-      <img src="/img/Computing/DistroDE.svg" class="specs-Image">
-      <p>Fedora Silverblue.</p>
-    </td>
-  </tr>
-  <tr>
-    <td class="spec">
       <img src="/img/Computing/Server.svg" class="specs-Image">
       <p>Experiment Machine (HP Elitebook G20):</p>
     </td>
@@ -227,4 +202,3 @@ date = 2024-05-28
 <p>Using my knowledge in Rust and Python, and my love for GNOME and Libadwita apps, I am planning on making simple apps of my own that integrate well into the GNOME desktop.</p>
 </div>
 </main>
-</body>

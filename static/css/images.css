@@ -1,0 +1,12 @@
+.largeImages {
+    width: 100%;
+    border-radius: 16px;
+}
+
+@media screen and (max-width: 1300px) {
+    .largeImages {
+        width: 95%;
+    }
+
+}
+

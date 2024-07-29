@@ -8,7 +8,7 @@ So whats more taxing for this computer and me than running a bloated OS and an O
 
 This blog will entail the steps I took to dualboot Windows 10 and Gentoo Linux, using the KDE Desktop Environment, on Systemd with Flatpak, Wayland and Pipewire/Portals support.
 
-<img class="images large_image" src="../../../img/Articles/Blog3/gentoo-windows-dualboot.png">
+<img class="largeImages" src="../../../img/Articles/Blog3/gentoo-windows-dualboot.png">
 
 <h1> The Specimen </h1>
 For this demonstration, I will be installing Gentoo/Windows onto my HP Elitebook G820. The Specs Are:
@@ -424,7 +424,7 @@ Finally, add Flathub to your flatpak repos so you can use flatpaks.
 <div class="codePadding"><code>zoey@zelda ~ $ flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo</code></div> 
 
 Done!
-<img class="images large_image" src="../../../img/Articles/Blog3/gentoo_desktop.png">
+<img class="largeImages" src="../../../img/Articles/Blog3/gentoo_desktop.png">
 
 <h1>  Extras For Gentoo </h1>
 

@@ -1,15 +1,3 @@
-.images {
-    width: 26em;
-    border-radius: 12px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 35px;
-    margin-bottom: 35px;
-}
-.large_image {
-    width: 50em;
-}
 .codePadding {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -39,15 +27,10 @@ h3 {
 
 
 @media screen and (max-width: 1300px) {
-    .images {
-        width: 80%;
-    }
     .codePadding {
         width: 100%;
         overflow:scroll;
     }
-    .large_image {
-        width: 95%;
-    }
+
 }
 

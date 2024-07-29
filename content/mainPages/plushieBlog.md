@@ -3,14 +3,15 @@ title = "Plushie Blog."
 date = 2024-05-28
 +++
 
+<main>
 <div class="catHeader">
 <p><b><code class="code" aria-hidden="true">[zoey@fedora:~]$ vim ~/Documents/plushie.lore </code><span class="cursor">█</span></b></p>
 </div>
 
-  
+
 <h1 class="categoryHeader"> <img src="/img/Plushies/bear-symbolic.png " alt="Plushies" class="categoryHeaderIcon">  </h1>
 <h1>UNDER RECONSTRUCTION!</h1>
-
+</main>
 <!-- <!DOCTYPE html>
 <html>
   <head>

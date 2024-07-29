@@ -3,8 +3,8 @@ title = "About Me."
 date = 2024-05-28
 +++
 
+<main>
 <p><b><code class="code" aria-hidden="true">[zoey@fedora:~]$ whoami </code><span class="cursor">█</span></b></p>
-</div>
 <h1 class="categoryHeader"><img src="/img/About/system-users-symbolic.svg" alt="Linux" class="categoryHeaderIcon" > About Me </h1>
 <p>My name is Zoey Ahmed. This is my personal corner, sharing all the things I get up to off-screen.</p>
 <div class="media">
@@ -193,4 +193,4 @@ date = 2024-05-28
 </div>
 <h2 class="categoryHeader categoryHeaderH5">Rats.</h2>
 <p> They Are Underappreciated Pets That Deserve Lots Of Love And I Wish To Own Many In The Future! </p>
-
+</main>
