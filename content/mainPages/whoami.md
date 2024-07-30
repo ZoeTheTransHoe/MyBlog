@@ -132,20 +132,20 @@ date = 2024-05-28
   <table class="mediaTable">
     <tr>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://www.imdb.com/title/tt2467372/" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/brooklyn99.webp"></a>
+        <p>Dan Marocco, NBC</p>
         <p class="mediaTitle">Brooklyn 99 <img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://www.imdb.com/title/tt3032476/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_better%2520call%2520sau" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/BCS.png"></a>
+        <p>Vince Gilligan, Peter Gould, AMC</p>
         <p class="mediaTitle">Better Call Saul<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://www.imdb.com/title/tt1190634/?ref_=nv_sr_srsg_1_tt_6_nm_1_in_0_q_the%2520boys" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/theBoys.png"></a>
+        <p>Amazon</p>
         <p class="mediaTitle">The Boys <img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
-      </td>
+      </td>celeste
     </tr>
   </table>
 </div>
@@ -157,51 +157,51 @@ date = 2024-05-28
   <table class="mediaTable">
     <tr>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://www.gog.com/en/game/fallout_london" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/falloutLondon.png"></a>
+        <p>Team FOLON</p>
         <p class="mediaTitle">Fallout London <img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://store.steampowered.com/app/553850/HELLDIVERS_2/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/helldivers.png"></a>
+        <p>Arrowhead Game Studios</p>
         <p class="mediaTitle">Helldivers 2 <img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://store.steampowered.com/app/714070/Entropy__Zero/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/entropyZero.png"></a>
+        <p>Breadman	</p>
         <p class="mediaTitle">Entropy: Zero<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
     </tr>
     <tr>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://store.steampowered.com/app/504230/Celeste/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/c  eleste.png"></a>
+        <p>Maddy Makes Games </p>
         <p class="mediaTitle">Celeste <img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://store.steampowered.com/app/782330/DOOM_Eternal/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/doomEternal.png"></a>
+        <p>Bethesda</p>
         <p class="mediaTitle">Doom Eternal<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://store.steampowered.com/app/1222670/The_Sims_4/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/sims4.png"></a>
+        <p>EA Studios</p>
         <p class="mediaTitle">The Sims 4<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
     </tr>
     <tr>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/hitmanWOA.png"></a>
+        <p>IO Interactive A/S</p>
         <p class="mediaTitle">Hitman: WOA <img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://store.steampowered.com/app/203160/Tomb_Raider/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/tombRaider.png"></a>
+        <p>Square Enix, Crystal Dynamics</p>
         <p class="mediaTitle">Tomb Raider Reboot<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/Shows/promare.png"></a>
-        <p>Trigger Studios</p>
+        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/ratopia.png"></a>
+        <p>Cassel Games </p>
         <p class="mediaTitle">Ratopia<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
     </tr>
   </table>
