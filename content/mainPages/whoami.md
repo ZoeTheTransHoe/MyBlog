@@ -174,7 +174,7 @@ date = 2024-05-28
     </tr>
     <tr>
       <td class="mediaILike">
-        <a href="https://store.steampowered.com/app/504230/Celeste/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/c  eleste.png"></a>
+        <a href="https://store.steampowered.com/app/504230/Celeste/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/celeste.png"></a>
         <p>Maddy Makes Games </p>
         <p class="mediaTitle">Celeste <img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
@@ -200,7 +200,7 @@ date = 2024-05-28
         <p class="mediaTitle">Tomb Raider Reboot<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
       </td>
       <td class="mediaILike">
-        <a href="https://myanimelist.net/anime/35848/Promare?q=ppromare&cat=anime" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/ratopia.png"></a>
+        <a href="https://store.steampowered.com/app/2244130/Ratopia/" target="_blank"><img class="coverArt" src="/img/WhoAmI/VideoGames/ratopia.png"></a>
         <p>Cassel Games </p>
         <p class="mediaTitle">Ratopia<img class="externalLink" src="/img/Generic/external-link-symbolic.svg"></p>
     </tr>
