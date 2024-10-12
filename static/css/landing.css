@@ -9,19 +9,33 @@
 .topOfPage {
     padding-bottom: 100px;
 }
-
+.listFriends{
+    margin-top:4px;
+    margin-bottom: 24px;
+  }
 .infoElement {
     background-color: #333538;
     border-radius: 24px ;
     margin: 5px;
     padding: 1px 0px 1px 20px;
-  }
+}
   
 .infoBox {
     display: grid;
     grid-template-columns: 50% 50%;
+    text-align: center;
+    list-style:none;
+    
 }
-
+.infoBox li{
+    list-style:none;
+}
+.infoBox a{
+    color: #FF9999;
+}
+.infoBox a:hover{
+    color: #FF4D4D;
+}
 .source {
     text-align: center;
     font-size: large;
@@ -38,4 +52,10 @@
     .topOfPage {
         padding-bottom: 1px;
     }
+}
+.namePFP{
+    color: #FF8080;
+}
+.namePFP:hover{
+    color: #FF4D4D;
 }
