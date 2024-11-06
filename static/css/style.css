@@ -2,9 +2,14 @@
    HTML content. To learn how to do something, just try searching Google for questions like
    "how to change link color." */
 
+:root {
+  --main-pink: #ffc0cb;
+  --main-grey: #1d1f21;
+}
 
+  
 body {
-  background-color: #1d1f21;
+  background-color: var(--main-grey);
   margin-top: 120px;
   --comment-opacity: 0.7;
   --global-fade-animation: 0.25s;
@@ -32,7 +37,7 @@ a{
 }
 
 html {
-  color: #ffc0cb ;
+  color: var(--main-pink) ;
   font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: clamp(0.8rem, 0.45rem + 17.5vw, 1.15rem);
   --font-size-bigger: 1.25em;
@@ -46,7 +51,6 @@ html {
 
 .cursor {
   animation: cursor var(--cursor-fade-animation) infinite;
-
 }
 
 @keyframes cursor {

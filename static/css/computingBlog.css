@@ -41,6 +41,7 @@
 .spec {
     width: 16%;
     align-items: center;
+    text-align: center;
 }
 
 .specs-Image {

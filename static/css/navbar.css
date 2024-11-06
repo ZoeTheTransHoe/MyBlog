@@ -1,6 +1,6 @@
 /* Navigation Bar */
 .navBar {
-    background-color: #ffc0cb;
+    background-color: var(--main-pink);
     text-align: center;
     position: fixed;
     display: inline;

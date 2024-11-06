@@ -1,6 +1,5 @@
-
 /* Media I Like */
-  .coverArt {
+  /* .coverArt {
     width:240px; 
     height:240px; 
     height: auto;
@@ -49,4 +48,26 @@
         justify-content:left;
     }
   }
-  
+   */
+
+.musicLinkIcon
+{
+  height: 2em;
+}
+
+.decorIcons
+{
+  height: 2em; 
+}
+
+.coverArt
+{
+  height:4em;
+  float: left;
+}
+
+.mediaILike 
+{
+  outline: solid;
+  outline-color: var(--main-pink);
+}
